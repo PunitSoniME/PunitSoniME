@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at Thomson Reuters on a product called **Capital Confirmation**
 
-- 🌱 I’m currently learning **React.js, React Native**
-
 - 👨‍💻 All of my projects are available at [https://punit-soni.web.app](https://punit-soni.web.app)
 
 - 📫 How to reach me **punit.soni33@gmail.com**
