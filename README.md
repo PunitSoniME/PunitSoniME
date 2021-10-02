@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitsonime&label=Profile%20views&color=0e75b6&style=flat" alt="punitsonime" /> </p>
 
-- 🔭 I’m currently working at Thomson Reuters on a product called **Capital Confirmation**
+- 🔭 I’m currently working at Vebholic Pvt. ltd. as a frontend lead
 
 - 👨‍💻 All of my projects are available at [https://punit-soni.web.app](https://punit-soni.web.app)
 
