@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Punit Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitsonime&label=Profile%20views&color=0e75b6&style=flat" alt="punitsonime" /> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=PunitSoniME&show_icons=true&count_private=true&theme=radical)
 
 - 🔭 I’m currently working at Vebholic Pvt. ltd. as a frontend lead
 
